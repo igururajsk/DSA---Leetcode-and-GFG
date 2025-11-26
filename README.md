@@ -39,4 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0383-ransom-note) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
