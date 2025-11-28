@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0383-ransom-note) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
