@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
