@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0383-ransom-note) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
