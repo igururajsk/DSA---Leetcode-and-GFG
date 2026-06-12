@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
+| [0645-set-mismatch](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0645-set-mismatch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0645-set-mismatch](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
