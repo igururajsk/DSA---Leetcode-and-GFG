@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
