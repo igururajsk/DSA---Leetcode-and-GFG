@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
