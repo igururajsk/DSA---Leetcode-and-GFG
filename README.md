@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0645-set-mismatch) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
