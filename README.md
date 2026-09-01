@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -131,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
