@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0383-ransom-note) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/igururajsk/DSA---Leetcode-and-GFG/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
